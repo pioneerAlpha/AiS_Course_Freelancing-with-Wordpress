@@ -1,0 +1,4 @@
+https://lakside.devonline.me/wp-admin/
+
+user: lakeside
+pass: lakeside123
